@@ -18,6 +18,9 @@
   "homepage": "https://github.com/Preethi-Bojarajan/herokuNode#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "pem": "^1.14.4",
     "pg": "^8.5.1"
   }
 }
